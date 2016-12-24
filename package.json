@@ -17,9 +17,7 @@
     "url": "git+https://github.com/MemosaApp/package-template.git",
     "type": "git"
   },
-  "keywords": [
-
-  ],
+  "keywords": [],
   "author": "Ivan Montiel <idmontie@gmail.com> (https://github.com/idmontie)",
   "license": "MIT",
   "bugs": {
@@ -41,7 +39,6 @@
     "eslint-plugin-jsx-a11y": "^3.0.2",
     "eslint-plugin-react": "^6.8.0",
     "eslint-plugin-sort-class-members": "^1.1.1",
-    "faker": "^3.1.0",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
     "gulp-istanbul": "^1.1.1",
