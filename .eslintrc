@@ -3,7 +3,7 @@
     "memosa"
   ],
   "env": {
-    "browser": false,
+    "browser": true,
     "mocha": true
   },
 }
